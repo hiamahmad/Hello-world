@@ -1,2 +1,2 @@
 # Hello-world
-First sho
+First shot
